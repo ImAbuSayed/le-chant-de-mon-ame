@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-chant-de-mon-ame/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Le Chant De Mon Âme](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-chant-de-mon-ame/) |
+| **Get License** | [Secure Licensing Rights for Le Chant De Mon Âme](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-chant-de-mon-ame/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `81f8d95673eaa7e9205c59b98a8b264752b4324877fd137fc2866e5a6a65305a` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
