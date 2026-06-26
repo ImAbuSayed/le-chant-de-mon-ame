@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-chant-de-mon-ame/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Le Chant De Mon Âme](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-chant-de-mon-ame/) |
+| **Get License** | [Get a Licensing Quote for Le Chant De Mon Âme](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-chant-de-mon-ame/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les néons brûlants, je cherche ton allure
+> Ton parfum dans l'air, baby, c'est l'aventure
+> Approche-toi de moi, laisse la nuit nous guider
+> C'est le chant de mon âme, viens me faire frissonner
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
